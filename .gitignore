@@ -1,0 +1,10 @@
+#IntelliJ
+*.ipr
+*.iml
+*.iws
+.idea
+
+# Gradle
+.gradle
+build
+local.properties
